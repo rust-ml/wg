@@ -19,7 +19,7 @@ The working group is currently composed of the following members:
 - @[LukeMathWalker](https://github.com/LukeMathWalker)
 - @[quietlychris](https://github.com/quietlychris)
 - @[sebpuetz](https://github.com/sebpuetz)
-- @[tiberiousferreira](https://github.com/tiberiousferreira)
+- @[tiberiusferreira](https://github.com/tiberiusferreira)
 - @[xd009642](https://github.com/xd009642)
 
 We welcome interest from the community, so please feel free to participate!
