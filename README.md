@@ -1,5 +1,5 @@
 # Machine Learning Working Group
-**This group is in the applicant stage, and as such is currently unofficial**
+**This group is in the [applicant stage](https://github.com/rust-lang/wg-governance/issues/11), and as such is currently unofficial**
 
 > Coordination repository for the Machine Learning Working Group (WG)
 
@@ -13,13 +13,17 @@ Come say hello, read about, and weigh in on our [discussions](https://github.com
 
 The working group is currently composed of the following members:
 
-- @deg4uss3er
-- @jblondin
-- @jbowles
-- @LukeMathWalker
-- @quietlychris
-- @sebpuetz
-- @tiberiousferreira
-- @xd009642
+- @[deg4uss3er](https://github.com/deg4uss3r)
+- @[jblondin](https://github.com/jblondin)
+- @[jbowles](https://github.com/jbowles)
+- @[LukeMathWalker](https://github.com/LukeMathWalker)
+- @[quietlychris](https://github.com/quietlychris)
+- @[sebpuetz](https://github.com/sebpuetz)
+- @[tiberiousferreira](https://github.com/tiberiousferreira)
+- @[xd009642](https://github.com/xd009642)
 
 We welcome interest from the community, so please feel free to participate!
+
+### Code of Conduct
+
+This Working Group strictly adheres to the [Rust Code of Conduct](./CODE_OF_CONDUCT.md).
