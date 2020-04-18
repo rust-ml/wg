@@ -9,7 +9,7 @@ The Rust-ML working group is currently at an early stage of development, and is 
 
 Come say hello, read about, and weigh in on our [discussions](https://github.com/rust-ml/discussion)! We currently have several ongoing threads regarding upcoming scope of work, organizational structures, and more.
 
-The Rust-ML group has a Zulip channel. Feel free to take and look and say hi!
+The Rust-ML group has a Zulip channel. Feel free to take a look and say hi!
 - https://rust-ml.zulipchat.com
 
 ### Organization
@@ -24,6 +24,7 @@ The working group is currently composed of the following members:
 - @[sebpuetz](https://github.com/sebpuetz)
 - @[tiberiusferreira](https://github.com/tiberiusferreira)
 - @[xd009642](https://github.com/xd009642)
+- @[vadixidav](https://github.com/vadixidav)
 
 We welcome interest from the community, so please feel free to participate!
 
