@@ -5,29 +5,31 @@
 
 The Rust-ML working group is currently at an early stage of development, and is still deciding on several choices at an organizational level. This document will be updated accordingly as those decisions are made.
 
-### How can you contribute?
+## What do we do?
 
-Come say hello, read about, and weigh in on our [discussions](https://github.com/rust-ml/discussion)! We currently have several ongoing threads regarding upcoming scope of work, organizational structures, and more.
+In general, the Rust-ML working group's goals are to:
 
-The Rust-ML group has a Zulip channel. Feel free to take a look and say hi!
+- Create spaces where people interested in doing machine learning in Rust can meet, ask questions, and discuss their work
+- Help organize support for Rust libraries, tools, and projects in the machine learning domain
+- In rare instances, to assist with or assume the maintainership of projects important to the wider community
+
+## How can you contribute?
+
+The Rust-ML group has a Zulip chat. Feel free to take a look and say hi!
 - https://rust-ml.zulipchat.com
 
-### Organization
+We also host a video chats every two weeks. Meeting minutes can be found in the [Meetings](https://github.com/rust-ml/Meetings) repository.
 
-The working group is currently composed of the following members:
+### Ongoing projects
+The following are projects that are currently maintained by the larger Rust-ML working group. Pull requests, issues, and other contributions are welcome! 
 
-- @[deg4uss3er](https://github.com/deg4uss3r)
-- @[jblondin](https://github.com/jblondin)
-- @[jbowles](https://github.com/jbowles)
-- @[LukeMathWalker](https://github.com/LukeMathWalker)
-- @[quietlychris](https://github.com/quietlychris)
-- @[sebpuetz](https://github.com/sebpuetz)
-- @[tiberiusferreira](https://github.com/tiberiusferreira)
-- @[xd009642](https://github.com/xd009642)
-- @[vadixidav](https://github.com/vadixidav)
+- [arewelearningyet.com](https://www.arewelearningyet.com/) 
+    - The Rust-ML group helps to maintain AreWeLearningYet by reviewing and accepting pull requests, and submitting new crates to the repository's lists
+- [linfa](https://github.com/rust-ml/linfa/)
+    - The Rust-ML group actively develops and maintiners linfa, a Rust machine learning framework/library, which fills a similar role as Python's scikit-learn
 
-We welcome interest from the community, so please feel free to participate!
+More importantly, Rust's machine learning community is filled of experimentation! Take a look at some of the projects currently being worked on by members on the working group's [Task Board](https://github.com/rust-ml/wg/blob/master/Task_Board.md), or take a look at some of the project's being discussed in our Zulip chat. 
 
-### Code of Conduct
+## Code of Conduct
 
 This Working Group strictly adheres to the [Rust Code of Conduct](./CODE_OF_CONDUCT.md).
