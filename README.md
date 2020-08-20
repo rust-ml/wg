@@ -1,9 +1,9 @@
 # Machine Learning Working Group
 **This group is in the [applicant stage](https://github.com/rust-lang/wg-governance/issues/11), and as such is currently unofficial**
 
-> Coordination repository for the Machine Learning Working Group (WG)
+> Coordination repository for the Rust Machine Learning Working Group (WG)
 
-The Rust-ML working group is currently at an early stage of development, and its prospect role and function in the wider Rust ecosystem is currently explored. We strongly believe that Rust can contribute to the Machine Learning community with its correctness and speed. It brings the promise of a unified scientific workhorse by combining elegance and performance, previously only found in separate languages. We are excited to help the Rust ecosystem get to that point. 
+The Rust-ML working group is currently at an early stage of development, and its prospective role and function in the wider Rust ecosystem is currently being explored. We strongly believe that Rust can contribute to the Machine Learning community with its safety and speed. It carries the possibility of a unified scientific workhorse that combines elegance and performance, in a way normally found only by combining separate languages. We are excited to help the Rust ecosystem get to that point. 
 
 Have some ideas? Let us know! 
 
@@ -31,7 +31,7 @@ The following are projects that are currently maintained by the larger Rust-ML w
 - [arewelearningyet.com](https://www.arewelearningyet.com/) 
     - The Rust-ML group helps to maintain AreWeLearningYet by reviewing and accepting pull requests, and submitting new crates to the repository's lists
 - [linfa](https://github.com/rust-ml/linfa/)
-    - The Rust-ML group actively develops and maintainers linfa, a Rust machine learning framework/library, which fills a similar role as Python's scikit-learn
+    - The Rust-ML group actively develops and maintains linfa, a Rust machine learning framework/library, which fills a similar role as Python's scikit-learn
 
 More importantly, Rust's machine learning community is filled with experimentation! Take a look at some of the projects currently being worked on by members on the working group's [Task Board](https://github.com/rust-ml/wg/blob/master/Task_Board.md), or take a look at some of the project's being discussed in our [Zulip chat](https://rust-ml.zulipchat.com). 
 
