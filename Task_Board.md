@@ -11,7 +11,7 @@ A small board of what the working group is currently working on to coordinate ef
 | Chris | quietlychris | tsuga | Neural network library | Help welcome, but not required at the moment | Issues listed in repo | 
 | Chris | quietlychris | `linfa` documentation | Reviewing/improving docs and examples | Any appreciated (good first issue) | Discuss in Zulip |
 | Tibério | tiberiusferreira | WebGPU Compute Library [tensor_compute](https://github.com/tiberiusferreira/tensor_compute) | Tensor Library focused on ML  | Suggestions welcome | Discuss in Zulip |
-| Manuel | ZuseZ4 | [Rust-RL](https://github.com/ZuseZ4/Rust_RL) | RL & NN library  | Help welcome, but not required | :--- |
+| Manuel | ZuseZ4 | [Rust-RL](https://github.com/ZuseZ4/Rust_RL) | RL & NN library  | Help welcome, especially in the Reinforcment Learning area | Help implementing more RL agents |
 
 
 
